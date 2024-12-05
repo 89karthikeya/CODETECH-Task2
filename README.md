@@ -34,3 +34,5 @@ Design Tool:
 
 Figma will be used to create the wireframes. This tool allows for easy creation of custom frames, simple UI elements, and clear screen layouts.
 The focus will be on clear, organized designs with ample whitespace to enhance readability and usability.
+![iPhone 16 Pro Max - 1](https://github.com/user-attachments/assets/417bd9c7-8d0f-4871-a071-6b5fd32c9328)
+![iPhone 16 Pro Max - 2](https://github.com/user-attachments/assets/f72ea7f3-6fb3-46b7-9fa4-c01ec0c71bab)
